@@ -1,5 +1,5 @@
 <?php
-    $hn = 'http://encyclopediasaver.com';
+    $hn = 'localhost';
     $db = 'truk';
     $un = 'kadeem';
     $pw = 'trukpass';
